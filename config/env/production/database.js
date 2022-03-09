@@ -18,4 +18,4 @@ module.exports = ({ env }) => ({
   },
 });
 
-// postgres://sxuepqrnrrcbss:5d3100b82e46b43fa0d0b2b6aade7c6dc7a923fe02e2530feba1599e7cb3ba9b@ec2-54-228-95-1.eu-west-1.compute.amazonaws.com:5432/d74ackl37mepl9  
+// postgres://sxuepqrnrrcbss:5d3100b82e46b43fa0d0b2b6aade7c6dc7a923fe02e2530feba1599e7cb3ba9b@ec2-54-228-95-1.eu-west-1.compute.amazonaws.com:5432/d74ackl37mepl9
