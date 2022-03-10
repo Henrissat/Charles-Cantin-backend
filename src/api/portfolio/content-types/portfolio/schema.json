@@ -42,6 +42,12 @@
       "type": "media",
       "multiple": false,
       "required": true
+    },
+    "category_portfolios": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::category-portfolio.category-portfolio",
+      "inversedBy": "portfolios"
     }
   }
 }
