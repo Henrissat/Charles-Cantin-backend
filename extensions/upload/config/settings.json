@@ -1,8 +1,8 @@
 {   
     "provider": "cloudinary",
     "providerOptions": {
-        "cloud_name": "CLOUDINARY_NAME",
-        "api_key": "CLOUDINARY_KEY",
-        "api_sercret": "CLOUDINARY_SECRET"
+        "cloud_name": "doe4mucdz",
+        "api_key": "992987985328476",
+        "api_sercret": "g2OSMsPS9hjVe0gNH6jNPreeADw"
     }
 }
